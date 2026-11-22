@@ -1,0 +1,12 @@
+{
+  "url": "https://search.worldcat.org/",
+  "final_url": "https://search.worldcat.org/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 460996,
+  "sha256": "5d6b03c695d45257ceb8752e40300a51b3335464f2bf82c9a804f2f73ed5e063",
+  "captured_at": "2026-11-22T17:27:32.760564Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}
